@@ -63,5 +63,9 @@ Depois de abrir o `hdajackretask`, siga este passo a passo para corrigir as entr
 
 ![jack-config](https://github.com/user-attachments/assets/7b2f4cb2-6175-45f7-89d1-5daf52750436)
 
+Testado nas Distros:
+Manjaro
+Linux Mint
 
-
+Testados no Notebook:
+Acer Aspire 5 Ryzen 7
